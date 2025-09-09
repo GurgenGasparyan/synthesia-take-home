@@ -37,6 +37,7 @@ The application will be available at `http://localhost:5173`
 - `npm run lint` - Run ESLint to check code quality
 - `npm run lint:fix` - Auto-fix ESLint issues
 - `npm run check-types` - Run TypeScript type checking
+- `npm run test` - Run Tests
 
 ## 🏗️ Architecture & Project Structure
 
